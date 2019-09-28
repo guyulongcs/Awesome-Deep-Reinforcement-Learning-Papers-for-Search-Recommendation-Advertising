@@ -5,9 +5,9 @@
 
 ​    WWW 18 DRN: A Deep Reinforcement Learning Framework for News Recommendation [paper](https://dl.acm.org/citation.cfm?id=3185994)
 
-​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/citation.cfm?id=3220122) [Alibaba]()
+​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/citation.cfm?id=3220122)  :+1:[Alibaba]
 
-​    IJCAI 19 Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) [arxiv](https://arxiv.org/abs/1905.12767) <font color=red>Google</font>
+​    IJCAI 19 Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) [arxiv](https://arxiv.org/abs/1905.12767)  :+1:[Google]
 
 ​    ICML 19 Off-Policy Deep Reinforcement Learning without Exploration [paper](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a.pdf)
 
@@ -15,7 +15,7 @@
 
 ### Policy Gradient:
 
-​    WSDM 19 Top-K Off-Policy Correction for a REINFORCE Recommender System [paper](https://dl.acm.org/citation.cfm?id=3290999) <font color=red>Google</font>
+​    WSDM 19 Top-K Off-Policy Correction for a REINFORCE Recommender System [paper](https://dl.acm.org/citation.cfm?id=3290999) :+1:[Google]
 
 ​    NIPS 17 Off-policy evaluation for slate recommendation [paper](http://papers.nips.cc/paper/6954-off-policy-evaluation-for-slate-recommendation.pdf)
 
