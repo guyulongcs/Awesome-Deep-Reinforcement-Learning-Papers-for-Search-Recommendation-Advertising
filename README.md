@@ -3,17 +3,15 @@
 
 ### DQN:
 
-​    WWW 18 DRN: A Deep Reinforcement Learning Framework for News Recommendation 
+​    WWW 18 DRN: A Deep Reinforcement Learning Framework for News Recommendation [paper](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)
 
-[paper]: https://dl.acm.org/citation.cfm?id=3185994
+​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/citation.cfm?id=3220122)
 
-​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation
+​    KDD 19 Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [paper](https://dl.acm.org/citation.cfm?id=3330668)
 
-​    KDD 19 Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems
+​    IJCAI 19 * Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) [arxiv](https://arxiv.org/abs/1905.12767)
 
-​    IJCAI 19 * Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology
-
-​    ICML 19 Off-Policy Deep Reinforcement Learning without Exploration
+​    ICML 19 Off-Policy Deep Reinforcement Learning without Exploration [paper](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a.pdf)
 
 
 
