@@ -79,7 +79,7 @@
 
 ​    SIGIR 19 Reinforcement Knowledge Graph Reasoning for Explainable Recommendation [paper](https://dl.acm.org/citation.cfm?id=3331203)
 
-​    
+
 
 ### Search Engine:
 
@@ -95,7 +95,7 @@
 
 ### JD.com: 
 
-​		[Data Science Lab](https://datascience.jd.com/page/publications.html)   [Dawei Yin](https://www.yindawei.com/)    [Xiangyu Zhao]( https://www.cse.msu.edu/~zhaoxi35/)
+​		[JD Data Science Lab](https://datascience.jd.com/page/publications.html) /  [Dawei Yin](https://www.yindawei.com/) /  [Xiangyu Zhao]( https://www.cse.msu.edu/~zhaoxi35/)
 
    KDD 19 Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [paper](https://dl.acm.org/citation.cfm?id=3330668)
 
