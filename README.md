@@ -5,7 +5,7 @@
 
 ​    WWW 18 DRN: A Deep Reinforcement Learning Framework for News Recommendation [paper](https://dl.acm.org/citation.cfm?id=3185994)
 
-​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/citation.cfm?id=3220122) `Alibaba`
+​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/citation.cfm?id=3220122) [Alibaba]()
 
 ​    IJCAI 19 Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) [arxiv](https://arxiv.org/abs/1905.12767) <font color=red>Google</font>
 
