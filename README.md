@@ -1,6 +1,36 @@
 # Deep Reinforcement Learning for Recommender Systems 
 ## Papers
 
+### New: 
+
+​    SIGIR 20 Neural Interactive Collaborative Filtering  [paper](https://arxiv.org/pdf/2007.02095.pdf)  [code](https://github.com/zoulixin93/NICF)
+
+​	KDD 20  Jointly Learning to Recommend and Advertise [paper](https://arxiv.org/pdf/2003.00097.pdf)
+
+​	CIKM 20 Whole-Chain Recommendations [paper](https://arxiv.org/pdf/1902.03987.pdf)
+
+​	Arxiv 19 Deep Reinforcement Learning for Online Advertising in Recommender Systems [paper](https://arxiv.org/pdf/1909.03602.pdf)
+
+​	KDD 19 Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [paper](https://dl.acm.org/citation.cfm?id=3330668) :star:[JD]
+
+​    DSFAA 19 Reinforcement Learning to Diversify Top-N Recommendation [paper](https://link.springer.com/chapter/10.1007/978-3-030-18579-4_7) [code]( https://github.com/zoulixin93/FMCTS) :star:[JD]
+
+​    KDD 18 Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning [paper](https://dl.acm.org/citation.cfm?id=3219886)  :star:[JD]
+
+​    RecSys 18 Deep Reinforcement Learning for Page-wise Recommendations [paper](https://dl.acm.org/citation.cfm?id=3240374)  :star:[JD]
+
+​    DRL4KDD Deep Reinforcement Learning for List-wise Recommendations [paper](https://arxiv.org/abs/1801.00209)  :star:[JD]
+
+​    Sigweb 19 Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey [paper](https://dl.acm.org/citation.cfm?id=3320500)  :star:[JD]
+
+​    Arxiv 19 Model-Based Reinforcement Learning for Whole-Chain Recommendations [paper](https://arxiv.org/abs/1902.03987) :star:[JD]
+
+​    Arxiv 19 Simulating User Feedback for Reinforcement Learning Based Recommendations [paper](https://arxiv.org/abs/1906.11462) :star:[JD]
+
+​	Arxiv 19 Deep Reinforcement Learning for Online Advertising in Recommender Systems [paper](https://arxiv.org/abs/1909.03602)
+
+
+
 ### DQN:
 
 ​    WWW 18 DRN: A Deep Reinforcement Learning Framework for News Recommendation [paper](https://dl.acm.org/citation.cfm?id=3185994) :star:[Microsoft]
@@ -25,6 +55,8 @@
 
 ​    AAAI 19 Large-scale Interactive Recommendation with Tree-structured Policy Gradient [paper](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4204)
 
+
+
 ### Actor-Critic:
 
 ​    Arxiv 15 Deep Reinforcement Learning in Large Discrete Action Spaces [paper](https://arxiv.org/abs/1512.07679) [code](https://github.com/jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces)
@@ -40,6 +72,8 @@
 ### Top K:
 
 ​    KDD 19 Exact-K Recommendation via Maximal Clique Optimization [paper](https://dl.acm.org/citation.cfm?id=3292500.3330832) :star:[Alibaba]
+
+​	Arixv 19 Seq2Slate: Re-ranking and Slate Optimization with RNNs  [paper](https://arxiv.org/abs/1810.02019) :star:[Google]
 
 ### Bandit:
 
@@ -97,24 +131,7 @@
 
 
 
-### JD.com: 
+### Research Scientists:
 
-​		[JD Data Science Lab](https://datascience.jd.com/page/publications.html) /  [Dawei Yin](https://www.yindawei.com/) /  [Xiangyu Zhao]( https://www.cse.msu.edu/~zhaoxi35/)
+[Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ&hl=en), [Weinan Zhang](http://wnzhang.net/), [Xiangyu Zhao](https://www.cse.msu.edu/~zhaoxi35/), [Lixin Zou](https://scholar.google.com/citations?user=J8tHYjIAAAAJ&hl=zh-CN)
 
-   KDD 19 Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [paper](https://dl.acm.org/citation.cfm?id=3330668) :star:[JD]
-
-   DSFAA 19 Reinforcement Learning to Diversify Top-N Recommendation [paper](https://link.springer.com/chapter/10.1007/978-3-030-18579-4_7) [code]( https://github.com/zoulixin93/FMCTS) :star:[JD]
-
-​    KDD 18 Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning [paper](https://dl.acm.org/citation.cfm?id=3219886)  :star:[JD]
-
-​    RecSys 18 Deep Reinforcement Learning for Page-wise Recommendations [paper](https://dl.acm.org/citation.cfm?id=3240374)  :star:[JD]
-
-​    DRL4KDD Deep Reinforcement Learning for List-wise Recommendations [paper](https://arxiv.org/abs/1801.00209)  :star:[JD]
-
-​    Sigweb 19 Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey [paper](https://dl.acm.org/citation.cfm?id=3320500)  :star:[JD]
-
-​    Arxiv 19 Model-Based Reinforcement Learning for Whole-Chain Recommendations [paper](https://arxiv.org/abs/1902.03987) :star:[JD]
-
-​    Arxiv 19 Simulating User Feedback for Reinforcement Learning Based Recommendations [paper](https://arxiv.org/abs/1906.11462) :star:[JD]
-
-​	 Arxiv 19 Deep Reinforcement Learning for Online Advertising in Recommender Systems [paper](https://arxiv.org/abs/1909.03602)
