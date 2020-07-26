@@ -37,8 +37,6 @@
 
 ​    KDD 18 Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [paper](https://dl.acm.org/citation.cfm?id=3220122)  :star:[Alibaba]
 
-​    IJCAI 19 Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) [arxiv](https://arxiv.org/abs/1905.12767)  :star:[Google]
-
 ​    ICML 19 Off-Policy Deep Reinforcement Learning without Exploration [paper](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a.pdf)
 
 
@@ -65,15 +63,19 @@
 
 ​    KDD 18 Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation [paper](https://dl.acm.org/citation.cfm?id=3219961)
 
-### Post Rank:
 
-​	    WWW 19 Value-aware Recommendation based on Reinforcement Profit Maximization [paper](https://dl.acm.org/citation.cfm?id=3313404) [code](https://github.com/rec-agent/rec-rl ) [Dataset](https://drive.google.com/file/d/14OtIC8eiDkzoWCTtaUZHcb7eB-bUmtTT/view) :star:[Alibaba]
 
-### Top K:
+### Re-ranking (Top K):
+
+​	IJCAI 19 Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) [arxiv](https://arxiv.org/abs/1905.12767)  :star:[Google]
+
+​	Arixv 19 Seq2Slate: Re-ranking and Slate Optimization with RNNs  [paper](https://arxiv.org/abs/1810.02019) :star:[Google]
 
 ​    KDD 19 Exact-K Recommendation via Maximal Clique Optimization [paper](https://dl.acm.org/citation.cfm?id=3292500.3330832) :star:[Alibaba]
 
-​	Arixv 19 Seq2Slate: Re-ranking and Slate Optimization with RNNs  [paper](https://arxiv.org/abs/1810.02019) :star:[Google]
+​	WWW 19 Value-aware Recommendation based on Reinforcement Profit Maximization [paper](https://dl.acm.org/citation.cfm?id=3313404) [code](https://github.com/rec-agent/rec-rl ) [Dataset](https://drive.google.com/file/d/14OtIC8eiDkzoWCTtaUZHcb7eB-bUmtTT/view) :star:[Alibaba]
+
+
 
 ### Bandit:
 
@@ -94,6 +96,8 @@
 ​    WWW 18 Learning to Collaborate Multi-Scenario Ranking via Multi-Agent Reinforcement Learning [paper](https://dl.acm.org/citation.cfm?id=3186165) 
 
 :star:[Alibaba]
+
+
 
 ### Hierarchical RL
 
