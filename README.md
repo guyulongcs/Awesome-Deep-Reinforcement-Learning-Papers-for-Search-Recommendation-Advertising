@@ -3,7 +3,7 @@
 
 ### New: 
 
-​    SIGIR 20 Neural Interactive Collaborative Filtering  [paper](https://arxiv.org/pdf/2007.02095.pdf)  [code](https://github.com/zoulixin93/NICF)
+​    SIGIR 20 Neural Interactive Collaborative Filtering [paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401181)  [Arxiv](https://arxiv.org/pdf/2007.02095.pdf)  [code](https://github.com/zoulixin93/NICF)
 
 ​	KDD 20  Jointly Learning to Recommend and Advertise [paper](https://arxiv.org/pdf/2003.00097.pdf)
 
