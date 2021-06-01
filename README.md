@@ -127,7 +127,7 @@
 
 ​    ICDM 18 A Reinforcement Learning Framework for Explainable Recommendation [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/main.pdf)
 
-​    SIGIR 19 Reinforcement Knowledge Graph Reasoning for Explainable Recommendation [paper](https://dl.acm.org/citation.cfm?id=3331203)
+​    SIGIR 19 Reinforcement Knowledge Graph Reasoning for Explainable Recommendation [paper](https://dl.acm.org/citation.cfm?id=3331203) [code](https://github.com/orcax/PGPR)
 
 
 
